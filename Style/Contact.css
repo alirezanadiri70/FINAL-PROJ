@@ -1,0 +1,108 @@
+.div-map{
+    border:3px solid #b36b00;
+    height: 551px;
+    width:632px;
+    margin:30px;
+    padding:7px;
+    background-color: #4d4d33;
+}
+#main-map{
+    position: relative;
+    top:-127px;
+}
+.div-form{
+    border:3px solid #b36b00;
+    height: 551px;
+    width:632px;
+    margin:30px;
+    padding:7px;
+    background-color: #4d4d33;
+    position:relative;
+    top:-601px;
+    left:699px;
+}
+form{
+    position: relative;
+    top:25px;
+}
+.name{
+    color:#fff;
+}
+.gender{
+    position: relative;
+    left:388px;
+    top:-18px;
+    color:#fff;
+}
+.email{
+    position: relative;
+    top:10px;
+    left:-126px;
+    color:#fff;
+}
+.phone{
+    color:#fff;
+    position: relative;
+    top:20px;
+}
+.address{
+    position: relative;
+    top:46px;
+    left:-238px;
+    color:#fff;
+}
+.add-input{
+    width:615px;
+    position: relative;
+    left:241px;
+}
+.city{
+    position: relative;
+    left:241px;
+    top:10px;
+    width:150px;
+}
+.state{
+    position: relative;
+    left:247px;
+    top:10px;
+    width: 150px;
+}
+.zip-code{
+    position: relative;
+    left:253px;
+    top:10px;
+}
+.country{
+    position: relative;
+    left:259px;    
+    top:10px;
+    width:142px;
+}
+.description{
+    color:#fff;
+    position: relative;
+    top:70px;
+}
+.des-frame{
+    position: relative;
+    top:3px;
+    left:3px;
+    width:615px;
+    height: 300px;
+}
+.footer-ab{
+    position: absolute;
+    top:671px;
+}
+.social-media-f{
+    position: relative;
+    left:650px;
+    top:3px;
+}
+.foot-p{
+    position:absolute;
+    top:16px;px;
+    left:42px;
+}
+

@@ -1,0 +1,136 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-color: #eeeedd;
+    width:100%;
+    height:700px;
+}
+.nav-bar{
+    width:100%;
+    height:45px;
+    background:linear-gradient(to top, #77773c 25%, #cccc99 75%);
+}
+.nav-logo{
+    width:50px;
+    height:38px;
+    position: relative;
+    top:4px;
+    left:10px;
+}
+.header-div{
+    position:relative;
+    top:-45px;
+}
+.ul-list{
+    position: relative;
+    top:-84px;
+}
+/*.ul-lis1, .ul-lis2 {*/
+/*    position:relative;*/
+/*    top:5px;*/
+/*}*/
+.ab-img{
+    width:400px;
+    height:350px;
+    position: relative;
+    left:30px;
+    top:36px;
+    border:2px solid #734d26;
+}
+.sec-span {
+    z-index: 1;
+    position: relative;
+    left:-230px;
+    top:50px;
+}
+
+.ab-img2{
+    width:400px;
+    height:350px;
+    float:right;
+    position: relative;
+    top:-323px;
+    left:-501px;
+    border:2px solid #734d26;
+}
+.sec-ab-vid{
+    position: relative;
+    left:1000px;
+    top:-324px;
+    border:2px solid #734d26;
+}
+.sec-div-ab{
+    display:block;
+    justify-content: space-around;
+    position: relative;
+    top:-308px;
+}
+.sec-div-div1{
+    position: absolute;
+    top:-12px;
+    left:18px;
+    width:20px;
+    height:18px;
+    overflow:hidden;
+    
+}
+.sec-div-div2{
+    position: absolute;
+    left:509px;
+    top:-12px;
+    width:20px;
+    height:18px;
+    overflow:hidden;
+}
+.sec-div-div3{
+    position: absolute;
+    left:993px;
+    top:-11px;
+    width:20px;
+    height:18px;
+    overflow: hidden;
+}
+.sec-div-div1,.sec-div-div2,.sec-div-div3{
+    background-color: #666644;
+    color:white;
+    width:12%;
+    margin:10px;
+    text-align: center;
+}
+.sec-div-div1:hover{
+    transform: translateY(0);
+    transform: translateX(0);
+    width: 405px;
+    height: 200px;
+    transition-duration: 2s;
+    background:linear-gradient(to bottom, #33331a, #ddddbb);
+}
+.sec-div-div2:hover{
+    width:405px;
+    height:200px;
+    transition-duration: 2s;
+    background:linear-gradient(to bottom, #33331a, #ddddbb);
+}
+.sec-div-div3:hover{
+    width:400px;
+    height:200px;
+    transition-duration: 2s;
+    background:linear-gradient(to bottom, #33331a, #ddddbb);
+}
+#sec-p{
+    overflow: hidden;
+    text-overflow: inherit;
+    margin:0 auto;
+    padding: 0;
+    width:96%;
+    height:150px;
+}
+
+.footer-ab{
+    position: relative;
+    top:-90px;
+}
+.social-media-f{
+    position: relative;
+    left:650px;
+}
