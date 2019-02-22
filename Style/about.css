@@ -97,6 +97,18 @@ body{
     margin:10px;
     text-align: center;
 }
+#sec-p1{
+    width:403px;
+    height:400px;
+}
+#sec-p2{
+    width:403px;
+    height:400px;
+}
+#sec-p3{
+    width:403px;
+    height:400px;
+}
 .sec-div-div1:hover{
     transform: translateY(0);
     transform: translateX(0);
